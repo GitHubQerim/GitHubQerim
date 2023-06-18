@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Hello I'm Qerim, 23 Years old Influencer, Tech lover and Gym rat 🏋🏻‍♀️<br>💬 Feel free to contact me!
+# About Me ----> 
+🔭 Hello I'm Qerim, 23 Years (young), Tech lover and Gym rat 🏋🏻‍♀️<br>💬 Feel free to contact me!
 
 
 ## 🌐 Socials:
