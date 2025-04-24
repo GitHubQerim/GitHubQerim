@@ -39,18 +39,11 @@ Aktuell vertieft in:
   ![Vercel](https://img.shields.io/badge/-Deployed_on_Vercel-000000?style=flat-square&logo=vercel)  
   **Live:** [szn-capital.com](https://szn-capital.com)
 
-- 🧠 **AI-Powered Analytics Dashboard** (Enterprise Solution)  
-  🔄 Same Stack Power:  
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=vercel)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
-  *Real-time Datenvisualisierung für komplexe Finanzdatenströme*
-
-- 📱 **Qemify** (WIP) - Cross-Platform AI Companion App  
+- 📱 **Qemify** (WIP) - Gamified All in APP
   ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
   ![Python](https://img.shields.io/badge/-AI/ML-3776AB?style=flat-square&logo=python)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
-  *Experimentiere mit TensorFlow.js für edge-basierte ML-Inferenz*
+  *Hohe Anfrage kommt eventuell dieses Jahr im Play- und App Store*
 
 ## 📫 Kontakt
 - 🐦 [Twitter Handle](https://twitter.com/qemdev
