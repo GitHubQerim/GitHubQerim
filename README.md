@@ -29,13 +29,6 @@ Aktuell vertieft in:
 ![React Native](https://img.shields.io/badge/-React_Native_Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
 ![Animations](https://img.shields.io/badge/-Advanced_UI_Animations-FF6659?style=for-the-badge)
 
-
-## 🔥 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=GitHubQerim&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubQerim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 - ## 🚀 Aktuelle Projekte
 
 - 🔗 **szn-capital.com** - Next.js Trading Plattform für professionelle Trader  
