@@ -39,7 +39,7 @@ Aktuell vertieft in:
   ![Vercel](https://img.shields.io/badge/-Deployed_on_Vercel-000000?style=flat-square&logo=vercel)  
   **Live:** [szn-capital.com](https://szn-capital.com)
 
-- 📱 **Qemify** (WIP) - Gamified All in APP
+- 📱 **Stacked**  - Gamified All in APP
   ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
   ![Python](https://img.shields.io/badge/-AI/ML-3776AB?style=flat-square&logo=python)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
