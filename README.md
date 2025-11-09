@@ -48,7 +48,8 @@ Aktuell vertieft in:
 ## 🔮 Coming Soon
 
 - 🏗️ **The Architect** - *Something is being built...*
-  ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+  ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+  ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
   ![Mystery](https://img.shields.io/badge/-🎯_Mystery_Tech-black?style=flat-square)
   *Die nächste Generation von... warte ab. 👁️*
 
