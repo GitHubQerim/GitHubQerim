@@ -42,8 +42,15 @@ Aktuell vertieft in:
 - 📱 **Stacked**  - Gamified All in APP
   ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
   ![Python](https://img.shields.io/badge/-AI/ML-3776AB?style=flat-square&logo=python)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
   *Hohe Anfrage kommt eventuell dieses Jahr im App Store*
+
+## 🔮 Coming Soon
+
+- 🏗️ **The Architect** - *Something is being built...*
+  ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+  ![Mystery](https://img.shields.io/badge/-🎯_Mystery_Tech-black?style=flat-square)
+  *Die nächste Generation von... warte ab. 👁️*
 
 ## 📫 Kontakt
 - 🐦 [Twitter Handle](https://twitter.com/qemdev
