@@ -1,52 +1,45 @@
-# Hey, ich bin Qerim! 👋
+# Qerim
 
-🚀 **Full-Stack Developer** mit einer Leidenschaft für moderne Webtechnologien und cleanen Code.  
-🌐 Baue Webseiten in meiner Freizeit !
+Software developer based in Germany. B.Sc. in Software Development, working part-time at Porsche on AI tooling. I build the kind of systems that don't break when nobody's watching.
 
-## 🛠️ Tech-Stack
+---
 
-### **Programmiersprachen**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+## What I'm building
 
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+**Momentum** — iOS app for the kind of discipline that compounds. React Native, Expo SDK 52, TypeScript strict. Solo-leveling rank system, witness-based commitment pacts, stoic tone throughout. Spec-driven development with semantic commits.
 
-### **Backend & Tools**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+**PROTOCOL** — Native iOS companion to Momentum. Swift 6, TCA, SwiftData, Screen Time API. The hard one.
 
-## 🌱 Immer am Lernen
-Aktuell vertieft in:  
-![React Native](https://img.shields.io/badge/-React_Native_Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
-![Animations](https://img.shields.io/badge/-Advanced_UI_Animations-FF6659?style=for-the-badge)
+**szn-capital** — Trading mentorship platform for a Dubai-based client. Next.js, multi-locale, custom funnel architecture. Live: [szn-capital.com](https://szn-capital.com) · [apply.szn-capital.com](https://apply.szn-capital.com).
 
-- ## 🚀 Aktuelle Projekte
+**LagerOS** — iOS food inventory tracking with MHD-aware notifications. Open Food Facts API, Claude Vision for receipt scanning, SaaS pricing model.
 
-- 🔗 **szn-capital.com** - Next.js Trading Plattform für professionelle Trader  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
-  ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer)
-  ![Vercel](https://img.shields.io/badge/-Deployed_on_Vercel-000000?style=flat-square&logo=vercel)  
-  **Live:** [szn-capital.com](https://szn-capital.com)
+---
 
-- 📱 **Stacked**  - Gamified All in APP
-  ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
-  ![Python](https://img.shields.io/badge/-AI/ML-3776AB?style=flat-square&logo=python)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
-  *Hohe Anfrage kommt eventuell dieses Jahr im App Store*
+## How I work
 
-## 📫 Kontakt
-- 🐦 [Twitter Handle](https://twitter.com/qemdev
-- 📧 Email: qqemmdev@gmail.com
+Spec before code. ADRs for decisions that outlive sessions. Conventional commits without exception. Tests where they prevent bugs, not where they perform diligence. Architecture decisions documented with their reasoning, not just their conclusion.
 
+Pragmatic when the project asks for speed, disciplined when it asks for stability. I know which one is which.
 
+---
+
+## Stack
+
+Production work mostly in **TypeScript** across **Next.js**, **React**, and **React Native**. Database layer through **Drizzle** or raw **Postgres** depending on the project's complexity. UI built on **Tailwind** and **shadcn/ui**. Native mobile in **Swift 6** with **The Composable Architecture**.
+
+Infrastructure: **Cloudflare Pages**, **Supabase**, **Vercel**, **AWS** where it earns its keep. **Anthropic SDK** integrated where AI actually solves a problem instead of being a feature.
+
+Tooling: **Biome** over ESLint, **pnpm** over npm, **Lefthook** for git hooks, **Drizzle Kit** for migrations.
+
+---
+
+## Recent shipped work
+
+Agile SE coursework documenting PROTOCOL development across 4 sprints with TDD: 21 unit tests across debt-policy, discipline-streak, and priority-debt-policy components. TestFlight feedback loop with real iPhone 15 Pro Max testers. MoSCoW prioritization, post-sprint stabilization phase.
+
+---
+
+## Reach
+
+[qemdev.de](https://qemdev.de) · [Twitter](https://twitter.com/qemdev) · qemdev@icloud.com
